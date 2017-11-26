@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">应用商店</string>
+    <string name="home">首页</string>
+    <string name="software">软件</string>
+    <string name="game">游戏</string>
+    <string name="manager">管理</string>
+    <string name="download">下载</string>
+    <string name="downloading">下载中</string>
+    <string name="setting">设置</string>
+    <string name="update">更新</string>
+    <string name="have_installed">已安装</string>
+    <string name="open">打开</string>
+    <string name="continues">继续</string>
+    <string name="pause">暂停</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="author">评论人 :&#160;</string>
+    <string name="submit_comment">提交评论</string>
+    <string name="cancel">取消</string>
+    <string name="comment_star">评分</string>
+    <string name="comment_and_commentscore">评论及评分</string>
+    <string name="whole">所有</string>
+    <string name="write_comment">撰写评论</string>
+    <string name="recomment">编辑推荐</string>
+    <string name="popular">最受欢迎</string>
+    <string name="favour">最受好评</string>
+    <string name="fold">收起</string>
+    <string name="launch">展开</string>
+    <string name="updates">更新(%1$d)</string>
+    <string name="downloads">下载(%1$d)</string>
+    <string name="updateAll">更新所有</string>
+    <string name="startAll">开始所有</string>
+
+    <string name="manager_fragment_toast">需要往将数据存储，暂未做</string>
+    <string name="toast_search">请输入搜索内容</string>
+    <string name="exit_app">您确定退出当前应用吗?</string>
+    <string name="install">安装</string>
+
+    <string name="news">news</string>
+    <string name="promulgator">发布者 :&#160;</string>
+    <string name="type">类别 :&#160;</string>
+    <string name="size">大小 :&#160;</string>
+    <string name="name">name</string>
+    <string name="more">所有</string>
+    <string name="touch_star">点击评分</string>
+    <string name="write_your_commeent">写下您的评论</string>
+    <string name="content">content</string>
+    <string name="version">v3.0gengxin</string>
+
+    <string name="other_information">其他信息</string>
+    <string name="touch_look">点击查看</string>
+    <string name="uninstall">卸载</string>
+    <string name="remove">移除</string>
+    <string name="stopAll">停止所有</string>
+    <string name="no_task">当前没有下载任务</string>
+    <string name="parsing_package_meet_peoblem">解析包出现问题</string>
+    <string name="no_space_avilable">剩余空间不足</string>
+    <string name="remove_file_error">转移文件错误</string>
+    <string name="finished">下载完成</string>
+    <string name="start_download">开始下载</string>
+    <string name="not_need_update">无需更新</string>
+    <string name="no_data_need_update">没有数据需要更新</string>
+    <string name="check_net_state">请检查网络连接</string>
+    <string name="frequent_used">常用软件</string>
+    <string name="search">搜索</string>
+    <string name="comment_content">用着很不错，赞</string>
+    <string name="who">李晓华</string>
+    <string name="this_task_have_been_download">当前任务已经下载完成</string>
+    <string name="network_is_available">请检查网络是否可用</string>
+    <string name="file_not_found">文件未找到</string>
+    <string name="connect_timeout">连接超时</string>
+    <string name="updating">更新中</string>
+</resources>
